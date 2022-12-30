@@ -1,6 +1,6 @@
 # Sample Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project demonstrates a PoC for the Z**** assaignment. Please find inlcuded the attack contract written in solidity and the hardhat test under the lock.js file. To run the test simply use the command `npx hardhat test`. The output log will show to attackers contract token balance after the attack.
 
 Try running some of the following tasks:
 
